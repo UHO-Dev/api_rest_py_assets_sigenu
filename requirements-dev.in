@@ -1,0 +1,13 @@
+Django
+djangorestframework
+django-mssql-backend
+psycopg2
+django-filter
+python-dotenv
+django-debug-toolbar
+pre-commit
+flake8
+black
+django-crispy-forms
+crispy-bootstrap3
+pip-tools
